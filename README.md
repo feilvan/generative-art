@@ -9,5 +9,5 @@
 
 - [Disco Diffusion Artist Study Database](https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit?usp=sharing)
 - [Disco Diffusion Public Folder](https://drive.google.com/drive/folders/1wXvivH2azyK0J-5kjxiq5_4BlMw0ztmx)
-- [Real-ESRGAN (Image upscaling. Result is a bit blurry.)](https://github.com/xinntao/Real-ESRGAN)
-- [Real-ESRGAN (Image upscaling. Implementation by AI Forever. Clearer result.)](https://github.com/ai-forever/Real-ESRGAN)
+- [Real-ESRGAN (Image upscaling.)](https://github.com/xinntao/Real-ESRGAN)
+- [Real-ESRGAN (Image upscaling. Implementation by AI Forever. Best for image with painting style.)](https://github.com/ai-forever/Real-ESRGAN)
