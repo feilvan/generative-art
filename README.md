@@ -5,6 +5,7 @@
 - [JAX CLIP Guided Diffusion (nshepperd)](https://github.com/nshepperd/jax-guided-diffusion)
 - [VQGAN CLIP](https://github.com/justinjohn0306/VQGAN-CLIP)
 - [Simulacra Bot](https://github.com/JD-P/simulacrabot)
+- [Pixel Art Diffusion](https://github.com/KaliYuga-ai/Pixel-Art-Diffusion/)
 
 ## Misc
 
