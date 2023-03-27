@@ -1,3 +1,7 @@
+## Pre Stable Diffusion stuff
+<details>
+
+<summary>Expand</summary>
 
 ## Image Generation
 
@@ -13,3 +17,5 @@
 - [Disco Diffusion Public Folder](https://drive.google.com/drive/folders/1wXvivH2azyK0J-5kjxiq5_4BlMw0ztmx)
 - [Real-ESRGAN (Image upscaling)](https://github.com/xinntao/Real-ESRGAN)
 - [Simulacra Aesthetic Captions (dataset)](https://github.com/JD-P/simulacra-aesthetic-captions)
+
+</details>
